@@ -95,3 +95,6 @@ Total Bill: ₹130
 6. Opening images with the default OS viewer.
 
 **Have fun coding and customizing your very own Python café! ☕🍰**
+
+*👨‍💻 Made by Abdullah Umer
+Crafted for fun and learning ❤️
