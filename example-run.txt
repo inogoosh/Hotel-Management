@@ -1,0 +1,18 @@
+*STARTERS
+---------
+1. Garlic Bread -> ₹50
+2. Veg Spring Rolls -> ₹40
+...
+
+Order starters? (Yes(y) / No(n): y
+Serial nos: 1 2
+Quantities (same order): 1 2
+Garlic Bread x1 => ₹50
+Veg Spring Rolls x2 => ₹80
+
+...
+
+=====================
+Total Bill: ₹130
+=====================
+📲 Scan the displayed QR in any UPI app to pay.
