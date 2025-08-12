@@ -1,19 +1,2 @@
-# Restaurant Order System 🛎️
-
-A simple Python terminal-based restaurant ordering system with QR code UPI payment integration.
-
-## Features
-- Browse a categorized menu
-- Choose multiple items and quantities
-- Automatic bill calculation
-- Generates a UPI QR code for payment
-
 ## Requirements
-- Python 3.7+
-- Dependencies from `requirements.txt`
-
-## Installation
-```bash
-git clone https://github.com/inogoosh/restaurant-management-system.git
-cd restaurant-management-system
-pip install -r requirements.txt
+qrcode[pil]
